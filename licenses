@@ -1,4 +1,1 @@
-{
-"users": "['Gebruiker', 'Gebruiker2']" ,
-"expiry": "['2024', '2125']"
-}
+{"users": ["Gebruiker", "Gebruiker2"], "expiry": ["2025", "2125"]}
